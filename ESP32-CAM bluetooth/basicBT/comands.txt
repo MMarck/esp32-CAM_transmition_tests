@@ -1,0 +1,5 @@
+(1) Set a link between a path to and a bluetooth device
+
+sintax: sudo rfcomm connect [fichero] [direccion mac del dispositivo]
+
+example: sudo rfcomm connect /dev/bbt C8:F0:9E:A2:36:DA 1

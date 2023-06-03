@@ -1,0 +1,6 @@
+comando para establecer un enlace entre el dispositivo bluetooth y un fichero
+
+sudo rfcomm connect [fichero] [direccion mac del dispositivo]
+
+
+sudo rfcomm connect /dev/bbt C8:F0:9E:A2:36:DA 1
